@@ -1,6 +1,6 @@
 # C01
 
-C01 builds upon the concepts introduced in **[C00](42-Piscine-Beirut/C00/)** and introduces pointers, expanding your understanding of C programming.
+C01 builds upon the concepts introduced in **[C00](../C00/)** and introduces pointers, expanding your understanding of C programming.
 
 ## Core Concepts
 
