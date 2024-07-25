@@ -11,7 +11,6 @@ This repository introduces fundamental and advanced concepts in C programming, f
 ## Advanced Concepts
 
 - **Find Value Within Value**: Implementing functions to locate substrings within strings.
-- **Using Unsigned int**: Utilizing the `Unsigned int` data type for efficient memory allocation and data handling.
 
 ## Projects
 
