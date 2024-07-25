@@ -1,6 +1,6 @@
 # C01
 
-C01 builds upon the concepts introduced in **[C00](../C00/)** and introduces pointers, expanding your understanding of C programming.
+C01 builds upon the concepts introduced in [C00](../C00/) and introduces pointers, expanding your understanding of C programming.
 
 ## Core Concepts
 
@@ -29,7 +29,7 @@ C01 builds upon the concepts introduced in **[C00](../C00/)** and introduces poi
 - **EX04** - Store Values, Swap Them, use Div and Mod
 - **EX05** - Write a String
 - **EX06** - Get the Length of a String
-- **EX07** - Implement a Function to Compare Two Strings
-- **EX08** - Implement a Function to Concatenate Two Strings
+- **EX07** - Reverse the elements in an integer array.
+- **EX08** - Sort an integer array in ascending order.
 
 Each exercise is designed to reinforce your understanding of pointers, strings, arrays, and conditional statements in C programming.
