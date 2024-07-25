@@ -24,9 +24,8 @@
 6. **EX05 - Check a String is Uppercase**: Checking if all characters in a string are uppercase letters.
 7. **EX06 - Check a String is Printable**: Validating if a string contains only printable characters.
 8. **EX07 - Make a String Uppercase**: Converting all characters in a string to uppercase.
-9. **EX08 - Make a String Lowercase**: Converting all characters in a string to lowercase.
-10. **EX09 - Reverse a String**: Reversing the order of characters in a string.
-11. **EX10 - Concatenate Two Strings**: Combining two strings into a single string.
-12. **EX11 - Find Substring**: Locating a substring within a given string.
+9. **EX09 - ft_strcapitalize**: Capitalizing the first letter of each word in a string.
+10. **EX10 - ft_strlcpy**: Implementing the `ft_strlcpy` function to copy strings with size limitation.
+11. **EX11 - ft_putstr_non_printable**: Displaying a string where non-printable characters are replaced with hexadecimal representations.
 
 Each project aims to reinforce understanding and implementation of string and array operations in practical scenarios.
