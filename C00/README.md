@@ -1,4 +1,4 @@
-## Introduction to C Programming
+## C00: Introduction to C Programming
 
 This repository provides projects designed to familiarize you with fundamental concepts in C programming. Each project focuses on essential topics to build a strong foundation:
 
