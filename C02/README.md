@@ -1,4 +1,4 @@
-# Using Strings and Arrays for Data Handling
+# C02: Using Strings and Arrays for Data Handling
 
 ## Core Concepts
 
