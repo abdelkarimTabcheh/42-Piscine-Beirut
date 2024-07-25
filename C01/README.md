@@ -1,6 +1,6 @@
 # C01
 
-C01 builds upon the concepts introduced in C00 and introduces pointers, expanding your understanding of C programming.
+C01 builds upon the concepts introduced in **[C00](42-Piscine-Beirut/C00/)** and introduces pointers, expanding your understanding of C programming.
 
 ## Core Concepts
 
@@ -20,11 +20,7 @@ C01 builds upon the concepts introduced in C00 and introduces pointers, expandin
   
 - **Temporary Variables:** Using temporary variables to facilitate operations and swaps.
 
-## Projects
-
-- **[C00 Project](42-Piscine-Beirut/C00/)**: Link to the C00 project repository or description.
-
-### Exercises
+## Exercises
 
 - **EX00** - Make a Pointer to 42
 - **EX01** - Make a Pointer to a Pointer to a...to 42
