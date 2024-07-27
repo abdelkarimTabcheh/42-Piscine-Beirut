@@ -1,4 +1,4 @@
-# C09 42 Piscine Project
+# C09
 
 ## Introduction
 
@@ -42,11 +42,3 @@ By completing these exercises, you will:
 - Gain experience with writing and using makefiles for build automation.
 - Improve your skills in string manipulation and dynamic memory management.
 - Learn to write shell scripts for automating common development tasks.
-
-## Resources
-
-For more detailed information and guidance, you can refer to the [42 project's GitHub repositories](https://github.com/42School) or explore specific resources on C programming, makefiles, and shell scripting.
-
----
-
-Happy coding!
